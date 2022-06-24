@@ -1,5 +1,6 @@
 # Keeper-App
-Keeper App is a clone of Google keep WebApp Made purelu using React front-end interface. Keeper app can be used to Take notes for future References . A User can add Multiple Notes i.e Title and content and Later delete it when the work is completed.
+The Keeper App is a clone of Google Keep WebApp Made purely using React front-end interface. The Keeper app can be used to Take notes for future References . A User can add Multiple Notes i.e Title and content and Later delete it when the work is completed.
+
 # Live Link 
 https://rb.gy/vnbtxu
 # ScreenShots
